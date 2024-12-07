@@ -1,0 +1,1 @@
+The webpage is largely adapted from Latent Consistency Model's [webpage](https://latent-consistency-models.github.io/)
